@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/afs/eecs.umich.edu/analog/users/smikes/TSMC_N45GS/upside/AMS'
+let g:netrw_dirhist_2='/afs/eecs.umich.edu/analog/users/smikes/TSMC_N45GS/upside/AMS/IFneuron_512'
+let g:netrw_dirhist_3='/afs/eecs.umich.edu/analog/shared/Projects/upside/sim_test'
+let g:netrw_dirhist_4='/afs/eecs.umich.edu/analog/shared/Projects/upside/sim_test/.bda'
+let g:netrw_dirhist_5='/afs/eecs.umich.edu/analog/users/smikes/TSMC_N45GS/upside/Synthesis/IFneuron_512'
+let g:netrw_dirhist_6='/afs/eecs.umich.edu/analog/users/smikes/TSMC_N45GS/upside/Synthesis/IFneuron_512/verilog'
+let g:netrw_dirhist_7='/afs/eecs.umich.edu/analog/users/smikes/TSMC_N45GS/upside/Testing/fpga'
